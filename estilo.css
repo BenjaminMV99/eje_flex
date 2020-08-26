@@ -1,0 +1,21 @@
+.content{
+    border-radius: 10px;
+    border-top:5px solid cadetblue ;
+    padding: 20px;
+    box-shadow: 1px 8px 20px rgb(110, 115, 116)
+}
+
+.txt p{
+    color: gray;
+}
+
+.img{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+body{
+    font-size: 20px;
+    margin: 30px;
+}
